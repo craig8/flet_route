@@ -19,7 +19,7 @@ setup(
     url="https://github.com/saurabhwadekar/flet_route",
     include_package_data=True,
     install_requires=[
-        'click==8.1.3',
+        'click==8.1.7',
         "repath",
         "flet",
     ],
